@@ -1,2 +1,7 @@
 # Visualization
-시각화 기법 정리
+
+* KDE(Kernel Density Estimation) Plot
+* Box Plot
+* Violin Plot
+* PDP(Partial DePendence) Plot
+* ICE(Individual Conditional Expectation) Plot
